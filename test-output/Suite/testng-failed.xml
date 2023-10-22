@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.TC4">
+        <methods>
+          <include name="close"/>
+          <include name="launch"/>
+          <include name="Likevideo"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC4 -->
+      <class name="org.testing.TestScripts.TC2">
+        <methods>
+          <include name="close"/>
+          <include name="launch"/>
+          <include name="ClickOnHistory"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC2 -->
+      <class name="org.testing.TestScripts.TC5">
+        <methods>
+          <include name="close"/>
+          <include name="SubscribeChannel"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC5 -->
+      <class name="org.testing.TestScripts.TC1">
+        <methods>
+          <include name="close"/>
+          <include name="ClickOnTrending"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC1 -->
+      <class name="org.testing.TestScripts.TC7">
+        <methods>
+          <include name="close"/>
+          <include name="launch"/>
+          <include name="ClickOnWatchLater"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC7 -->
+      <class name="org.testing.TestScripts.TC3">
+        <methods>
+          <include name="ClickOnSubscription"/>
+          <include name="close"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC3 -->
+      <class name="org.testing.TestScripts.TC8">
+        <methods>
+          <include name="close"/>
+          <include name="launch"/>
+          <include name="Demo"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC8 -->
+      <class name="org.testing.TestScripts.TC6">
+        <methods>
+          <include name="close"/>
+          <include name="CommentOnVideo"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC6 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

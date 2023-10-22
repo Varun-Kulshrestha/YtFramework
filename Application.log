@@ -1,0 +1,35 @@
+2023-08-08 12:40:08  [DemoTc] (main:) login successfully for DemoTC
+2023-08-08 15:14:41  [TC1] (main:) login successfully for TC1
+2023-08-08 15:14:45  [TC1] (main:) Click trending successfully for TC1
+2023-08-08 15:14:59  [TC1] (main:) logout successfully for TC1
+2023-08-08 15:19:43  [TC1] (main:) login successfully for TC1
+2023-08-08 15:19:46  [TC1] (main:) Click trending successfully for TC1
+2023-08-08 15:20:01  [TC1] (main:) logout successfully for TC1
+2023-08-08 18:36:22  [DemoTc] (main:) login successfully for DemoTC
+2023-09-06 13:47:08  [TC1] (main:) login successfully for TC1
+2023-09-06 13:47:14  [TC1] (main:) Click trending successfully for TC1
+2023-09-06 13:47:31  [TC1] (main:) logout successfully for TC1
+2023-09-06 13:51:52  [TC1] (main:) login successfully for TC1
+2023-09-06 13:51:56  [TC1] (main:) Click trending successfully for TC1
+2023-09-06 13:52:13  [TC1] (main:) logout successfully for TC1
+2023-09-06 13:53:02  [TC2] (main:) login successfully for TC2
+2023-09-06 13:53:05  [TC2] (main:) History page successfully click TC2
+2023-09-06 13:53:22  [TC2] (main:) logout successfully for TC2
+2023-09-06 13:54:05  [TC3] (main:) login successfully for TC3
+2023-09-06 13:54:08  [TC3] (main:) Successfully click on subscription TC3
+2023-09-06 13:54:23  [TC3] (main:) logout successfully for TC3
+2023-09-06 13:55:04  [TC4] (main:) login successfully for TC4
+2023-09-06 13:55:18  [TC4] (main:) Like video successfully for TC4
+2023-09-06 13:55:35  [TC4] (main:) logout successfully for TC4
+2023-09-06 13:56:17  [TC5] (main:) login successfully for TC5
+2023-09-06 13:56:31  [TC5] (main:) Subscribe successfully for TC5
+2023-09-06 13:56:47  [TC5] (main:) logout successfully for TC5
+2023-09-06 13:57:30  [TC6] (main:) login successfully for TC6
+2023-09-06 13:58:33  [TC6] (main:) comment successfully for TC6
+2023-09-06 13:58:50  [TC6] (main:) logout successfully for TC6
+2023-09-06 13:59:34  [TC7] (main:) login successfully for TC7
+2023-09-06 13:59:37  [TC7] (main:) Click on Watch later successfully for TC7
+2023-09-06 13:59:51  [TC7] (main:) logout successfully for TC7
+2023-09-06 14:00:33  [TC8] (main:) login successfully for TC8
+2023-09-06 14:00:36  [TC8] (main:) Click on library successfully for TC8
+2023-09-06 14:00:52  [TC8] (main:) logout successfully for TC8

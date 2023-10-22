@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="595909" started-at="2023-09-06T08:20:57Z" finished-at="2023-09-06T08:30:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="595909" started-at="2023-09-06T08:20:57Z" finished-at="2023-09-06T08:30:53Z">
+      <class name="org.testing.TestScripts.TC8">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC8@3e9b1010]" name="launch" is-config="true" duration-ms="15926" started-at="2023-09-06T08:29:52Z" finished-at="2023-09-06T08:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="Demo()[pri:0, instance:org.testing.TestScripts.TC8@3e9b1010]" name="Demo" duration-ms="44760" started-at="2023-09-06T08:30:08Z" finished-at="2023-09-06T08:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC8@3e9b1010]" name="close" is-config="true" duration-ms="970" started-at="2023-09-06T08:30:52Z" finished-at="2023-09-06T08:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC8 -->
+      <class name="org.testing.TestScripts.TC7">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC7@18eed359]" name="launch" is-config="true" duration-ms="17587" started-at="2023-09-06T08:28:52Z" finished-at="2023-09-06T08:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="ClickOnWatchLater()[pri:0, instance:org.testing.TestScripts.TC7@18eed359]" name="ClickOnWatchLater" duration-ms="41923" started-at="2023-09-06T08:29:09Z" finished-at="2023-09-06T08:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnWatchLater -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC7@18eed359]" name="close" is-config="true" duration-ms="335" started-at="2023-09-06T08:29:51Z" finished-at="2023-09-06T08:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC7 -->
+      <class name="org.testing.TestScripts.TC4">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC4@6b09bb57]" name="launch" is-config="true" duration-ms="16261" started-at="2023-09-06T08:24:24Z" finished-at="2023-09-06T08:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="Likevideo()[pri:0, instance:org.testing.TestScripts.TC4@6b09bb57]" name="Likevideo" duration-ms="54613" started-at="2023-09-06T08:24:40Z" finished-at="2023-09-06T08:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Likevideo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC4@6b09bb57]" name="close" is-config="true" duration-ms="412" started-at="2023-09-06T08:25:35Z" finished-at="2023-09-06T08:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC4 -->
+      <class name="org.testing.TestScripts.TC3">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC3@63753b6d]" name="launch" is-config="true" duration-ms="17011" started-at="2023-09-06T08:23:23Z" finished-at="2023-09-06T08:23:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="ClickOnSubscription()[pri:0, instance:org.testing.TestScripts.TC3@63753b6d]" name="ClickOnSubscription" duration-ms="43902" started-at="2023-09-06T08:23:40Z" finished-at="2023-09-06T08:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSubscription -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC3@63753b6d]" name="close" is-config="true" duration-ms="351" started-at="2023-09-06T08:24:23Z" finished-at="2023-09-06T08:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC3 -->
+      <class name="org.testing.TestScripts.TC6">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC6@520a3426]" name="launch" is-config="true" duration-ms="17124" started-at="2023-09-06T08:26:47Z" finished-at="2023-09-06T08:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="CommentOnVideo()[pri:0, instance:org.testing.TestScripts.TC6@520a3426]" name="CommentOnVideo" duration-ms="105035" started-at="2023-09-06T08:27:05Z" finished-at="2023-09-06T08:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommentOnVideo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC6@520a3426]" name="close" is-config="true" duration-ms="2190" started-at="2023-09-06T08:28:50Z" finished-at="2023-09-06T08:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC6 -->
+      <class name="org.testing.TestScripts.TC5">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC5@6536e911]" name="launch" is-config="true" duration-ms="17126" started-at="2023-09-06T08:25:35Z" finished-at="2023-09-06T08:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="SubscribeChannel()[pri:0, instance:org.testing.TestScripts.TC5@6536e911]" name="SubscribeChannel" duration-ms="54820" started-at="2023-09-06T08:25:52Z" finished-at="2023-09-06T08:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubscribeChannel -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC5@6536e911]" name="close" is-config="true" duration-ms="336" started-at="2023-09-06T08:26:47Z" finished-at="2023-09-06T08:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC5 -->
+      <class name="org.testing.TestScripts.TC2">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC2@5f9d02cb]" name="launch" is-config="true" duration-ms="19029" started-at="2023-09-06T08:22:13Z" finished-at="2023-09-06T08:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="ClickOnHistory()[pri:0, instance:org.testing.TestScripts.TC2@5f9d02cb]" name="ClickOnHistory" duration-ms="49702" started-at="2023-09-06T08:22:33Z" finished-at="2023-09-06T08:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnHistory -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC2@5f9d02cb]" name="close" is-config="true" duration-ms="320" started-at="2023-09-06T08:23:22Z" finished-at="2023-09-06T08:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC2 -->
+      <class name="org.testing.TestScripts.TC1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestScripts.TC1@370736d9]" name="launch" is-config="true" duration-ms="19860" started-at="2023-09-06T08:20:57Z" finished-at="2023-09-06T08:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="ClickOnTrending()[pri:0, instance:org.testing.TestScripts.TC1@370736d9]" name="ClickOnTrending" duration-ms="55498" started-at="2023-09-06T08:21:17Z" finished-at="2023-09-06T08:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTrending -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.testing.TestScripts.TC1@370736d9]" name="close" is-config="true" duration-ms="727" started-at="2023-09-06T08:22:13Z" finished-at="2023-09-06T08:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
